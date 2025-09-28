@@ -1,4 +1,4 @@
-package secondHomeWork.firstHomeWork;
+package secondHomeWork;
 
 import java.util.Scanner;
 
